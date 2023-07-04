@@ -1,2 +1,5 @@
-package Lambda;public interface StudentCheks {
+package Lambda;
+
+interface StudentChecks {
+    boolean check(Student s);
 }
